@@ -1,4 +1,4 @@
 # telasteste
 
-email para login: "digitalaliner@gmail.com"
+email para login: "digitalaligner@gmail.com"
 senha para login "22022025"
